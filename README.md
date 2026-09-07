@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Naresh Rayala
+#  Hi, I'm Naresh Rayala
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast from Hyderabad, Telangana.
 
 ---
 
-## 📋 About Me
+##  About Me
 
 - **Name:** Naresh Rayala
 - **Location:** Hyderabad, Telangana 500001, India
@@ -15,7 +15,7 @@ I'm dedicated to building robust applications and continuously learning new tech
 
 ---
 
-## 💻 Skills
+##  Skills
 
 - **Programming Languages:** 
   - C
@@ -30,7 +30,7 @@ I'm dedicated to building robust applications and continuously learning new tech
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### BankPro
 A banking application project demonstrating full-stack development capabilities.
@@ -39,22 +39,22 @@ A banking application project demonstrating full-stack development capabilities.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥈 **Runner-up in Global Web Designing Competition**
+-  **Runner-up in Global Web Designing Competition**
   - Recognized for innovative design and development skills
 
-- ☁️ **AWS Certified Data Analyst**
+-  **AWS Certified Data Analyst**
   - Certified by Amazon Web Services
   - Expertise in data analysis and cloud technologies
 
-- 🌐 **Web Development Certified by IBM**
+-  **Web Development Certified by IBM**
   - Certified through IBM's "Create It" program
   - Proficient in modern web development practices and tools
 
 ---
 
-## 📚 Education & Learning
+##  Education & Learning
 
 I'm continuously expanding my knowledge in:
 - Full-stack web development
@@ -64,7 +64,7 @@ I'm continuously expanding my knowledge in:
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 Feel free to explore my repositories and reach out for:
 - Collaboration opportunities
@@ -74,7 +74,7 @@ Feel free to explore my repositories and reach out for:
 
 ---
 
-## 📞 Contact Information
+##  Contact Information
 
 - **Email:** nareshrayala2007@gmail.com
 - **College Email:** 24d01a66n7@stmarysgroup.com
@@ -82,4 +82,4 @@ Feel free to explore my repositories and reach out for:
 
 ---
 
-**Thank you for visiting my profile! Happy coding! 🚀**
+**Thank you for visiting my profile! Happy coding! **
