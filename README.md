@@ -24,15 +24,15 @@ I'm dedicated to building robust applications and continuously learning new tech
   - Python
  
 - **Soft Skills:**
--  Problem Solving
-  Time Management
- Quick Learner
-   Adaptability
- Decision Maker
-   Presentation Skills
- Teamwork
- Collaboration
-  Critical Thinking
+  - Problem Solving
+  -Time Management
+  -Quick Learner
+  -Adaptability
+  -Decision Maker
+  -Presentation Skills
+  -Teamwork
+  -Collaboration
+  -Critical Thinking
 
 - **Web Technologies:**
   - JavaScript
